@@ -1,5 +1,6 @@
 # Uso:
 Con el teclado "}" que está al lado del Enter puedes abrir el buscador. Es igual al YouTube. Haces clic a cualquier casilla y se copia el texto sin necesidad de ctrl + c. Puedes comprimir los contenidos haciendo clic a cada titulo. También editar los colores.
+
     :root {
       --base-bg: rgb(0, 0, 0);   /* Color de fondo */
       --text-color: azure;       /* Color del texto y marco de tabla*/
@@ -7,6 +8,7 @@ Con el teclado "}" que está al lado del Enter puedes abrir el buscador. Es igua
       --search-hue: 240;         /* Color busqueda (0 rojo, 60 amarillo, 120 verde, 180 cian, 240 azul, 320 rosado) */
       --search-luminosidad-hue: 25%; /* Luminosidad busqueda (0% oscuro, 25% semi-oscuro, 50% normal, 75% semi-blanco, 100% blanco) */
     }
+
 Si gustas cambia la etiqueta details open a details para comprimir contenido o hacer un script para ingresar clave al documento 🤷‍♂️.
 # Descripción:
 Organiza cuentas y contraseñas pues.
